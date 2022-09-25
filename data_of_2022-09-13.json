@@ -1,0 +1,4661 @@
+{
+  "African Grocery": [
+    {
+      "name": "Agushi(Melon powder)",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/AgushiMelon-powder-600x800.png",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Bitiku (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Chunk Light Tuna in oil",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/9248c2de-3a46-40a5-b1d2-70c8e6f5f5b8-600x600.jpeg",
+      "comments": "no_comment",
+      "discription": "170g"
+    },
+    {
+      "name": "Chunk Light Tuna in water",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Screenshot-from-2022-08-31-12-57-00-600x333.png",
+      "comments": "no_comment",
+      "discription": "170g"
+    },
+    {
+      "name": "Corn Porridge",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/traditional-italian-dish-is-polenta-plate-is-gray-with-corn-porridge-polenta-with-piece-b_235573-665-600x401.jpg",
+      "comments": "no_comment",
+      "discription": "1kg"
+    },
+    {
+      "name": "Dried Red Sorrel",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/51ukYB98IWL._PIbundle-4TopRight00_SX351SY500SH20_.jpg",
+      "comments": "no_comment",
+      "discription": "125 g"
+    },
+    {
+      "name": "Fufu Cocoyam",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 8.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/91ito8u1a-L._AC_SL1500_-600x978.jpg",
+      "comments": "no_comment",
+      "discription": "680g"
+    },
+    {
+      "name": "Fufu Plantain",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 8.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/M002040.png",
+      "comments": "no_comment",
+      "discription": "680 gm"
+    },
+    {
+      "name": "Fumbwa (Frozen)",
+      "catagory": ["African Grocery"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Fumbwa-Frozen.jpg",
+      "comments": "no_comment",
+      "discription": "250g"
+    },
+    {
+      "name": "Hard Wheat",
+      "catagory": ["African Grocery"],
+      "price": "",
+      "currency": "",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/hardwheat-600x344.jpg",
+      "comments": "no_comment",
+      "discription": "(Upcoming-product)"
+    },
+    {
+      "name": "Jack Mackerel in Can",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "425g"
+    },
+    {
+      "name": "Jack Mackerel in Tomato Sauce",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 4.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Jack-Mackerel-in-Tomato-Sauce-425grm-Canned-Fish.jpg",
+      "comments": "no_comment",
+      "discription": "425g"
+    },
+    {
+      "name": "Matembele (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/matembele-600x702.png",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Ngai Ngai (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Ngai-Ngai-congele.jpg",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Okra  (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/0kra.png",
+      "comments": "no_comment",
+      "discription": "250g"
+    },
+    {
+      "name": "Palm Oil",
+      "catagory": ["African Grocery"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "1 lit"
+    },
+    {
+      "name": "Palmnut Cream",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "800g"
+    },
+    {
+      "name": "Pondu (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Pondu-Frozen-600x600.png",
+      "comments": "no_comment",
+      "discription": "1 Kg"
+    },
+    {
+      "name": "Spinach  (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Screenshot-from-2022-08-31-12-04-35.png",
+      "comments": "no_comment",
+      "discription": "900g"
+    },
+    {
+      "name": "Titus Sardinas in Soybean",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "123g"
+    },
+    {
+      "name": "Yellow Gari",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "1kg"
+    }
+  ],
+  "Bakery": [],
+  "Banoful & Kishwan Snacks": [
+    {
+      "name": "Banoful B- Toast(red)",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/asdfaweeghb.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Banoful Bay Leaf",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/sehfh.jpg",
+      "comments": "no_comment",
+      "discription": "100g"
+    },
+    {
+      "name": "Banoful BBQ Chanachur",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/asdegaweead-Copy-Copy-Copy.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Banoful Chanachur",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-Chanachur-dew.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Banoful Chira Laddu",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-18.jpg",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Banoful Curry Powder",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/curry-powder.jpg",
+      "comments": "no_comment",
+      "discription": "250g"
+    },
+    {
+      "name": "Banoful Dry Cake",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-19.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Banoful Dry Cake Chocolate",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-20.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Banoful Dry Whole Chilli",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/197532576_199606658712307_8775002817846437894_n.jpg",
+      "comments": "no_comment",
+      "discription": "100g"
+    },
+    {
+      "name": "Banoful Flattened Rice (Chira)",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/sefse.jpg",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Banoful Fried Dal",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 0.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-Fried-Dal-32fdz.jpg",
+      "comments": "no_comment",
+      "discription": "30g"
+    },
+    {
+      "name": "Banoful Fried Peas",
+      "catagory": ["Banoful & Kishwan Snacks", "Banoful", "Fried Peas"],
+      "price": "CAD 0.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-Fried-Peasrexcdcy.jpg",
+      "comments": "no_comment",
+      "discription": "30g"
+    },
+    {
+      "name": "Banoful Hot Chanachur",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-Chanachur-dew.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Banoful Lascha Semai",
+      "catagory": ["Banoful & Kishwan Snacks", "Lascha Semai"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/banoful-lascha-semai-Copy-Copy-Copy.jpg",
+      "comments": "no_comment",
+      "discription": "200g"
+    },
+    {
+      "name": "Banoful Masala Chanachur",
+      "catagory": ["Banoful & Kishwan Snacks", "Banoful", "Chanachur"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/199542602_507304417248810_7115697380918854928_n-600x800.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Banoful Muri Laddu",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "325g"
+    },
+    {
+      "name": "Banoful Musterd Oil",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-MUSTERD-OIL.jpg",
+      "comments": "no_comment",
+      "discription": "1000ml"
+    },
+    {
+      "name": "Banoful Puffed Rice",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 4.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/dquiq-ib-Copy-Copy-Copy.jpg",
+      "comments": "no_comment",
+      "discription": "400g"
+    },
+    {
+      "name": "Banoful Vermicelli",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 1.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-Vermicelli.jpg",
+      "comments": "no_comment",
+      "discription": "200g"
+    },
+    {
+      "name": "Kishawn Meat Masalla",
+      "catagory": ["Banoful & Kishwan Snacks", "Kishawn Meat Masalla"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/Kishwan-meat.jpg",
+      "comments": "no_comment",
+      "discription": "100g"
+    },
+    {
+      "name": "Kishiwan Horilicks Biscuit",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/fwegz.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Kishwan Chatpati Mix",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/sefar.jpg",
+      "comments": "no_comment",
+      "discription": "250g"
+    },
+    {
+      "name": "Kishwan Fish Masalla",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kishwan-Fish-Masallas-rth.jpg",
+      "comments": "no_comment",
+      "discription": "100g"
+    },
+    {
+      "name": "Kishwan Halim Mix",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kishwan-Halim-Mix-2.jpg",
+      "comments": "no_comment",
+      "discription": "200g"
+    },
+    {
+      "name": "Kishwan Instant Noodles",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/efsg.jpg",
+      "comments": "no_comment",
+      "discription": "65g*4"
+    },
+    {
+      "name": "Kishwan Kasundi",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-21.jpg",
+      "comments": "no_comment",
+      "discription": "265gm"
+    },
+    {
+      "name": "Kishwan Khichuri Mix",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/shr-Copy.jpg",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Kishwan Mango Bar",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kishwan-Mango-Barwteay.jpg",
+      "comments": "no_comment",
+      "discription": "30*14gm"
+    },
+    {
+      "name": "Kishwan Mango Pickle",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/image6.jpeg",
+      "comments": "no_comment",
+      "discription": "400g"
+    },
+    {
+      "name": "Kishwan Salted Cookies",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kishwan-Salted-Cookies.jpg",
+      "comments": "no_comment",
+      "discription": "800g"
+    },
+    {
+      "name": "Kishwan Suger Free Cookies",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kishwan-Suger-Free-Cookies.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Kishwan Sweet Toast",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/egtaxd.jpg",
+      "comments": "no_comment",
+      "discription": "350g"
+    },
+    {
+      "name": "Kishwan Tea Time Cookies",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kishwan-Tea-Time-Cookies.jpg",
+      "comments": "no_comment",
+      "discription": "800g"
+    },
+    {
+      "name": "Mango Bar",
+      "catagory": ["Banoful & Kishwan Snacks", "Mango Bar"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/BAR-600x669.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Mr. Twist",
+      "catagory": ["Banoful & Kishwan Snacks", "Potato Twist"],
+      "price": "CAD 1.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/TWIST-600x651.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Olive Pickle",
+      "catagory": ["Banoful & Kishwan Snacks"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/image5.jpeg",
+      "comments": "no_comment",
+      "discription": "400g"
+    },
+    {
+      "name": "Potato Crackers",
+      "catagory": ["Banoful & Kishwan Snacks", "Potato Crackers"],
+      "price": "CAD 1.25",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/PHOTO-600x698.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    }
+  ],
+  "Barbecue": [
+    {
+      "name": "Coconut Charcoal 72 Pics",
+      "catagory": ["Barbecue"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/10/Coconut1-1-600x429.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Three Kings Charcoal",
+      "catagory": ["Barbecue"],
+      "price": "CAD 16.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-16.jpg",
+      "comments": "no_comment",
+      "discription": "Charcoal"
+    }
+  ],
+  "Beverages": [
+    {
+      "name": "Fanta",
+      "catagory": ["Beverages"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image10-600x724.jpeg",
+      "comments": "no_comment",
+      "discription": "300ml"
+    },
+    {
+      "name": "Frutika Mango Juice",
+      "catagory": ["Beverages"],
+      "price": "CAD 1.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image9-600x500.jpeg",
+      "comments": "no_comment",
+      "discription": "250gm"
+    },
+    {
+      "name": "Frutta Mango Juice",
+      "catagory": ["Beverages"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/JUICE-600x800.jpg",
+      "comments": "no_comment",
+      "discription": "1 Liter"
+    },
+    {
+      "name": "Frutta Mango Juice",
+      "catagory": ["Beverages", "Mango Juice"],
+      "price": "CAD 1.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/mango-drink-600x800.jpg",
+      "comments": "no_comment",
+      "discription": "250ml"
+    },
+    {
+      "name": "ITN Mango Juice",
+      "catagory": ["Beverages"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image13.jpeg",
+      "comments": "no_comment",
+      "discription": "3 Liters"
+    },
+    {
+      "name": "ITN Mix Juice",
+      "catagory": ["Beverages"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image3.png",
+      "comments": "no_comment",
+      "discription": "3 Liters"
+    },
+    {
+      "name": "Perrier Water",
+      "catagory": ["Beverages"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image8.png",
+      "comments": "no_comment",
+      "discription": "500ml"
+    },
+    {
+      "name": "Red Bull Energy Drink",
+      "catagory": ["Beverages"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image4-600x600.jpeg",
+      "comments": "no_comment",
+      "discription": "250ml"
+    },
+    {
+      "name": "Vimto Drink",
+      "catagory": ["Beverages"],
+      "price": "CAD 1.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image7-1.jpeg",
+      "comments": "no_comment",
+      "discription": "330ml"
+    },
+    {
+      "name": "Vimto Fruit Cardial",
+      "catagory": ["Beverages"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image6-600x705.jpeg",
+      "comments": "no_comment",
+      "discription": "710ml"
+    },
+    {
+      "name": "Wonderfarm Coconut Water",
+      "catagory": ["Beverages"],
+      "price": "CAD 1.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image11.jpeg",
+      "comments": "no_comment",
+      "discription": "310ml"
+    }
+  ],
+  "Dairy Products": [
+    {
+      "name": "Carnation Evaporated Milk",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/109.jpg",
+      "comments": "no_comment",
+      "discription": "Evaporated Milk"
+    },
+    {
+      "name": "Coconut Milk",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/108.jpg",
+      "comments": "no_comment",
+      "discription": "400ml"
+    },
+    {
+      "name": "Condensed Milk",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 4.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/pro.jpg",
+      "comments": "no_comment",
+      "discription": "300ml"
+    },
+    {
+      "name": "Eggs",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1.jpg",
+      "comments": "no_comment",
+      "discription": "12 pack large"
+    },
+    {
+      "name": "Horlicks",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 11.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/106.jpg",
+      "comments": "no_comment",
+      "discription": "500gm"
+    },
+    {
+      "name": "Nanak Khoa",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image5.jpeg",
+      "comments": "no_comment",
+      "discription": "341gm"
+    },
+    {
+      "name": "Nanak Paneer",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/image6-1-600x387.jpeg",
+      "comments": "no_comment",
+      "discription": "341gm"
+    },
+    {
+      "name": "Sealtest Homo milk",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "4 Liters"
+    },
+    {
+      "name": "Wonderfarm Coconut Cream",
+      "catagory": ["Dairy Products"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/107.jpg",
+      "comments": "no_comment",
+      "discription": "400ml"
+    }
+  ],
+  "Dals & Pulses": [
+    {
+      "name": "Black Chana Whole",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/819C748D-80B8-45FE-8BAC-1D43FA003E4A-600x600.jpeg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    },
+    {
+      "name": "Brown Lentils",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/brown-lentil.jpg",
+      "comments": "no_comment",
+      "discription": "4 Lbs"
+    },
+    {
+      "name": "Chana Dal",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Chana-Dal-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    },
+    {
+      "name": "Chick Peas Whole",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/chickpeas-600x338.jpg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    },
+    {
+      "name": "Moong Dal",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Moong-Dal-600x437.jpg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    },
+    {
+      "name": "Moong Whole",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/sdfs.jpg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    },
+    {
+      "name": "Red Lentils",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/red-lentils-1024x656-1-600x384.jpg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    },
+    {
+      "name": "Toor Dal",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/toor-dal.jpg",
+      "comments": "no_comment",
+      "discription": "4 Lbs"
+    },
+    {
+      "name": "Urid Dal",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/urid-dal-select-2.jpg",
+      "comments": "no_comment",
+      "discription": "4 Lbs"
+    },
+    {
+      "name": "Urid Whole",
+      "catagory": ["Dals & Pulses"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/sabuturad-1_33b75575-420a-471d-ba05-8c426d3b47d0.jpg",
+      "comments": "no_comment",
+      "discription": "4lb"
+    }
+  ],
+  "Dry Fruits & Nuts": [],
+  "Fish And Seafood": [
+    {
+      "name": "Ayre Fish (Block)",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-2.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500gm\nRuposhi Bangla"
+    },
+    {
+      "name": "Bacha",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-4.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 500g"
+    },
+    {
+      "name": "Bailla",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-6.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 500g"
+    },
+    {
+      "name": "Bata Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 500gm"
+    },
+    {
+      "name": "Batashi",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/BATASHI-dfg.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 250g"
+    },
+    {
+      "name": "Boal Fish (Block)",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/0171986_boal-fish-1-kg-size_550.jpeg",
+      "comments": "no_comment",
+      "discription": "Weight: 500gm\nRuposhi Bangla"
+    },
+    {
+      "name": "Bulaicha",
+      "catagory": ["Fish And Seafood", "Bulaicha"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/bulaicha.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 250GM\nRuposhi Bangla"
+    },
+    {
+      "name": "Chalapata",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Chalapata.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 250GM\nRuposhi Bangla"
+    },
+    {
+      "name": "Chapila Chepa (Dry)",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Chapila-Chepa-Dry.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 150GM\nRuposhi Bangla"
+    },
+    {
+      "name": "Deshi Koi",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/desi-koi.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla"
+    },
+    {
+      "name": "Deshi Mola",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/mola.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 250g"
+    },
+    {
+      "name": "Deshi Puti",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/DESHI-pitiii.jpg",
+      "comments": "no_comment",
+      "discription": "Company: CLOBE"
+    },
+    {
+      "name": "Dry Puti (Shidol or Chapa)",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/chapa1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 150GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Foli",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/foli.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRuposhi Bangla"
+    },
+    {
+      "name": "Hilsha Block",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/01/Untitled-1.jpg",
+      "comments": "no_comment",
+      "discription": "500 gm\n\nRuposhi Bangla"
+    },
+    {
+      "name": "Hilsha Egg",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/egg.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 200gm\nRuposhi Bangla"
+    },
+    {
+      "name": "Hilsha Fish Whole",
+      "catagory": ["Fish And Seafood", "Hilsha", "Ilish"],
+      "price": "CAD 47.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/HILSHA-xcvfdgd.jpg",
+      "comments": "no_comment",
+      "discription": "Fresh Hilsha"
+    },
+    {
+      "name": "Kaikka",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/kaikka-1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 250GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Kajoli",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/KAJOLI.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 250g\n\n "
+    },
+    {
+      "name": "Kajoli",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/KAJOLI.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Keski Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-7.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 250g"
+    },
+    {
+      "name": "King Fish Whole",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 49.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-3.jpg",
+      "comments": "no_comment",
+      "discription": "Minimum 5 lbs"
+    },
+    {
+      "name": "Long Baim",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/bbf.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Lotia",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-9.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Clobe\nWeight: 500g"
+    },
+    {
+      "name": "Meni Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/jhvggjh.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Mix Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 11.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/0318104_haur-mix-fish-1-kg-600x674.jpeg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Mrigal Fish Whole",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 49.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-2-1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight can be 100gm + –\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Pabda",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/lotia-pabda.jpg",
+      "comments": "no_comment",
+      "discription": "Company: Ruposhi Bangla\nWeight: 500g"
+    },
+    {
+      "name": "Poa",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/09/poa-1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Pompano (2 Pieces)",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/09/pompano1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 800GM"
+    },
+    {
+      "name": "Rani",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Weight: 250Gm\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Rohu Fish Whole",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 34.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/dohkha-bah-Rohu-fish.jpg",
+      "comments": "no_comment",
+      "discription": "Rose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Shing",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-1.jpg",
+      "comments": "no_comment",
+      "discription": "Company:  Clobe\nWeight: 500gm"
+    },
+    {
+      "name": "Shoil",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 11.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/shoil-600x600-1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Shorputi",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-1.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500gm\nRuposhi Bangla"
+    },
+    {
+      "name": "Silver Pomphret 300g",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/SILVER-POMPHRET.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Taki Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Taki-Fish.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500GM\nRose Or South Asia Or Deshi"
+    },
+    {
+      "name": "Tengra 500g",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 11.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-2.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 500gm"
+    },
+    {
+      "name": "Tilapia Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 60.00",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1hb.jpg",
+      "comments": "no_comment",
+      "discription": "Weight: 18 lbs Box\nMedium Size"
+    },
+    {
+      "name": "Whole Ayre Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 39.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-ggg.jpg",
+      "comments": "no_comment",
+      "discription": "Fresh Fish"
+    },
+    {
+      "name": "Whole Boal Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 39.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/hg.jpg",
+      "comments": "no_comment",
+      "discription": "Fresh Fish"
+    },
+    {
+      "name": "Whole Katal Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 59.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-3-1.jpg",
+      "comments": "no_comment",
+      "discription": "11Lbs\n100gm + –"
+    },
+    {
+      "name": "Whole Pangus Fish",
+      "catagory": ["Fish And Seafood"],
+      "price": "CAD 29.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/pangasius-fish-500x500-1.png",
+      "comments": "no_comment",
+      "discription": "7 lbs"
+    }
+  ],
+  "Flour": [
+    {
+      "name": "Basan",
+      "catagory": ["Flour"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Besan-600x800.jpg",
+      "comments": "no_comment",
+      "discription": "2lb"
+    },
+    {
+      "name": "Basan",
+      "catagory": ["Flour"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Besan-600x800.jpg",
+      "comments": "no_comment",
+      "discription": "4 lb"
+    },
+    {
+      "name": "Hard Wheat",
+      "catagory": ["Flour"],
+      "price": "",
+      "currency": "",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/hardwheat-600x344.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Rice Flour",
+      "catagory": ["Flour"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/kristiana-pinne-FL8NSCfvty0-unsplash1-600x900.jpg",
+      "comments": "no_comment",
+      "discription": "4 Lb"
+    },
+    {
+      "name": "Rice Flour",
+      "catagory": ["Flour"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/kristiana-pinne-FL8NSCfvty0-unsplash1-600x900.jpg",
+      "comments": "no_comment",
+      "discription": "2lb"
+    },
+    {
+      "name": "Sujji",
+      "catagory": ["Flour"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Screenshot-from-2022-08-31-12-47-42.png",
+      "comments": "no_comment",
+      "discription": "2 lb"
+    },
+    {
+      "name": "Sujji",
+      "catagory": ["Flour"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Screenshot-from-2022-08-31-12-47-42.png",
+      "comments": "no_comment",
+      "discription": "4Lb"
+    }
+  ],
+  "Frozen Snack": [
+    {
+      "name": "Bhapa Pitha",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-1.jpeg",
+      "comments": "no_comment",
+      "discription": "550 gm"
+    },
+    {
+      "name": "Chanar Sandesh",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 24.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-13.jpeg",
+      "comments": "no_comment",
+      "discription": "1000 gm"
+    },
+    {
+      "name": "Chitol Pitha",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/citol-pitha.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Chomchom",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-6.jpeg",
+      "comments": "no_comment",
+      "discription": "Origin Bangladesh"
+    },
+    {
+      "name": "Khirer Chomchom",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-12.jpeg",
+      "comments": "no_comment",
+      "discription": "1000 gm"
+    },
+    {
+      "name": "Nokshi Pitha",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-2.jpeg",
+      "comments": "no_comment",
+      "discription": "600 gm"
+    },
+    {
+      "name": "Nun Gora",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM.jpeg",
+      "comments": "no_comment",
+      "discription": "800 gm"
+    },
+    {
+      "name": "Puli Pitha",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.31-AM.jpeg",
+      "comments": "no_comment",
+      "discription": "500 gm"
+    },
+    {
+      "name": "Roshgollah",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-4.jpeg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Roshmalai",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-5.jpeg",
+      "comments": "no_comment",
+      "discription": "Origin : Bangladesh"
+    },
+    {
+      "name": "Shahi Mughlai Paratha",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-3.jpeg",
+      "comments": "no_comment",
+      "discription": "400 gm"
+    },
+    {
+      "name": "Sweet Curd",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-8.jpeg",
+      "comments": "no_comment",
+      "discription": "1000 gm"
+    },
+    {
+      "name": "Sylhety Bakor Khani",
+      "catagory": ["Frozen Snack"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-20-at-5.01.16-AM-600x800.jpeg",
+      "comments": "no_comment",
+      "discription": "300 gm"
+    }
+  ],
+  "Frozen Vegetables": [
+    {
+      "name": "Bitiku (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Chalta (Elephant Apple) Cut",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Chalta.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Bean Seeds",
+      "catagory": ["Frozen Vegetables", "Bean", "Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/bean.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Data",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Green-Data.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Kachur Lati (Taro) (Thin)",
+      "catagory": ["Frozen Vegetables", "Frozen Loti", "Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/kachur-loti.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Kakrol (Teasle gourd ) 4 Cut",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Green-Kakrol.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Korolla (Bitter Gourd) Slice",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Green-Korolla.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Olive",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Green-Olive.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Green Potol (Palwal) (Clean  slice)½ slice)",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Green-Potol.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Jack Fruit Seeds (Clean  slice)½ slice)",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Jack-Fruit-Seeds.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Kodbel ( Wood Apple) Whole",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/coconut.jpg",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Lal Shak",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Lal-Shak.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Matembele (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/matembele-600x702.png",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Ngai Ngai (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Ngai-Ngai-congele.jpg",
+      "comments": "no_comment",
+      "discription": "500g"
+    },
+    {
+      "name": "Okra  (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/0kra.png",
+      "comments": "no_comment",
+      "discription": "250g"
+    },
+    {
+      "name": "Pondu (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Pondu-Frozen-600x600.png",
+      "comments": "no_comment",
+      "discription": "1 Kg"
+    },
+    {
+      "name": "Shredded Coconut",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Shredded-Coconut.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Spinach  (Frozen)",
+      "catagory": ["African Grocery", "Frozen Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Screenshot-from-2022-08-31-12-04-35.png",
+      "comments": "no_comment",
+      "discription": "900g"
+    },
+    {
+      "name": "White Kachur Mukhi (Eddoe)",
+      "catagory": ["Frozen Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/White-Kachur-Mukhi-Eddoe.jpg",
+      "comments": "no_comment",
+      "discription": "300g"
+    }
+  ],
+  "Fruits & Vegetables": [
+    {
+      "name": "Cassava",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-3.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Corriander leaf",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/coriander-leaves-dried-250-gms.jpg",
+      "comments": "no_comment",
+      "discription": "1 Bunch"
+    },
+    {
+      "name": "Garlic",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/download-_6_.jpg",
+      "comments": "no_comment",
+      "discription": "3 Pcs Pack"
+    },
+    {
+      "name": "Ginger",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-3-1.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Green Chilli",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-3-2.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Green Mango",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Ubd9e44b6b938467b804543870974fdc7z-min-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Green Papaya",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/0004214_green-papaya-net-weight-50-gm-1-kg_510.jpg",
+      "comments": "no_comment",
+      "discription": "1.5-2 lbs"
+    },
+    {
+      "name": "Jamican Hot Pepper",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Jamican-Hot-Pepper.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Long Egg Plant",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-5.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Mint leaf",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-2-3.jpg",
+      "comments": "no_comment",
+      "discription": "1 Bunch"
+    },
+    {
+      "name": "Okra Indian",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-2-2.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Onion",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/onion1.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs Bag"
+    },
+    {
+      "name": "Onion",
+      "catagory": ["Fruits & Vegetables", "Onion"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/onion1.jpg",
+      "comments": "no_comment",
+      "discription": "2 lbs bag"
+    },
+    {
+      "name": "Pan",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/betel-leaves-500x500-1.png",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Pan 20Pcs",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 3.00",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/betel-leaves-500x500-1.png",
+      "comments": "no_comment",
+      "discription": "20 pcs"
+    },
+    {
+      "name": "Potato",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/download-_2_.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs Bag"
+    },
+    {
+      "name": "Tomatoes",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/71DYmqoq-VL._SL1024_-min-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Yellow Plantain",
+      "catagory": ["Fruits & Vegetables"],
+      "price": "CAD 1.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/banana-yellow-kg.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    }
+  ],
+  "Grocery": [
+    {
+      "name": "Agushi(Melon powder)",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/AgushiMelon-powder-600x800.png",
+      "comments": "no_comment",
+      "discription": "300g"
+    },
+    {
+      "name": "Cedar Harissa",
+      "catagory": ["Grocery"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/HARISA-600x671.jpg",
+      "comments": "no_comment",
+      "discription": "425ml"
+    },
+    {
+      "name": "Cedar Honey",
+      "catagory": ["Grocery", "Cedar Honey", "Honey"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/cedar-wildflower-honey-1kg_.jpg",
+      "comments": "no_comment",
+      "discription": "1kg"
+    },
+    {
+      "name": "Chunk Light Tuna in oil",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/9248c2de-3a46-40a5-b1d2-70c8e6f5f5b8-600x600.jpeg",
+      "comments": "no_comment",
+      "discription": "170g"
+    },
+    {
+      "name": "Chunk Light Tuna in water",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Screenshot-from-2022-08-31-12-57-00-600x333.png",
+      "comments": "no_comment",
+      "discription": "170g"
+    },
+    {
+      "name": "Coconut Milk In Can",
+      "catagory": ["Grocery", "Coconut", "Coconut Milk"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/75978C6E-AC48-473E-B479-7C867E4A0614-scaled-600x921.jpeg",
+      "comments": "no_comment",
+      "discription": "400ml"
+    },
+    {
+      "name": "Condensed Milk",
+      "catagory": ["Grocery", "Condensed Milk"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/04A5211B-A594-4580-8848-D8C74F517982-600x728.jpeg",
+      "comments": "no_comment",
+      "discription": "300ml"
+    },
+    {
+      "name": "Corn Porridge",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/traditional-italian-dish-is-polenta-plate-is-gray-with-corn-porridge-polenta-with-piece-b_235573-665-600x401.jpg",
+      "comments": "no_comment",
+      "discription": "1kg"
+    },
+    {
+      "name": "Corn Starch",
+      "catagory": ["Grocery"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/21.jpg",
+      "comments": "no_comment",
+      "discription": "400g"
+    },
+    {
+      "name": "Dal Kumro Bori",
+      "catagory": ["Grocery", "Dal Kumro Bori"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/BORI-600x610.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Dried Red Sorrel",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/51ukYB98IWL._PIbundle-4TopRight00_SX351SY500SH20_.jpg",
+      "comments": "no_comment",
+      "discription": "125 g"
+    },
+    {
+      "name": "Dry Plum(Boroi)",
+      "catagory": ["Grocery", "Dry Plum(Boroi)"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/BOROI-600x590.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Evaporated Milk",
+      "catagory": ["Grocery", "Evaporated Milk", "Milk"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/milk-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "354ml"
+    },
+    {
+      "name": "Fried Onion Non Coated",
+      "catagory": ["Grocery"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/22.jpg",
+      "comments": "no_comment",
+      "discription": "312gm"
+    },
+    {
+      "name": "Fufu Cocoyam",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 8.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/91ito8u1a-L._AC_SL1500_-600x978.jpg",
+      "comments": "no_comment",
+      "discription": "680g"
+    },
+    {
+      "name": "Fufu Plantain",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 8.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/M002040.png",
+      "comments": "no_comment",
+      "discription": "680 gm"
+    },
+    {
+      "name": "Green Jackfruit In Can",
+      "catagory": ["Grocery"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/GREEN-600x780.jpg",
+      "comments": "no_comment",
+      "discription": "580ml"
+    },
+    {
+      "name": "Ispahani Mirzapore Tea",
+      "catagory": ["Grocery", "Ispahani Mirzapore Tea", "Tea"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/tea-600x712.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Jack Mackerel in Can",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "425g"
+    },
+    {
+      "name": "Jack Mackerel in Tomato Sauce",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 4.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Jack-Mackerel-in-Tomato-Sauce-425grm-Canned-Fish.jpg",
+      "comments": "no_comment",
+      "discription": "425g"
+    },
+    {
+      "name": "Kashta Cream",
+      "catagory": ["Grocery", "Kashta Cream"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/kashta.jpg",
+      "comments": "no_comment",
+      "discription": "170ml"
+    },
+    {
+      "name": "Lipton Yellow Label Tea",
+      "catagory": ["Grocery", "Lipton Yellow Label Tea", "Tea"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/61dtCL4LXiL._AC_SX466_.jpg",
+      "comments": "no_comment",
+      "discription": "200gm/100 Tea Bag"
+    },
+    {
+      "name": "Maggi Chicken Cube Box",
+      "catagory": ["Grocery", "Maggi Chicken Cube"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/MAGGI-600x652.jpg",
+      "comments": "no_comment",
+      "discription": "21gm*24"
+    },
+    {
+      "name": "Masoud Tomato Paste",
+      "catagory": ["Grocery"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/16.jpg",
+      "comments": "no_comment",
+      "discription": "796ml"
+    },
+    {
+      "name": "Natural Honey",
+      "catagory": ["Grocery"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "375g"
+    },
+    {
+      "name": "Palmnut Cream",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "800g"
+    },
+    {
+      "name": "Phoenicia honey With Comb",
+      "catagory": ["Grocery", "Honey", "Phoenicia honey With Comb"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/honey-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "500gm"
+    },
+    {
+      "name": "Redpath Sugar",
+      "catagory": ["Grocery", "Sugar"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/sugar.jpg",
+      "comments": "no_comment",
+      "discription": "2kg"
+    },
+    {
+      "name": "Sago Seeds",
+      "catagory": ["Grocery"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/19.jpg",
+      "comments": "no_comment",
+      "discription": "200g"
+    },
+    {
+      "name": "Sriracha Hot Chili Sauce",
+      "catagory": ["Grocery", "Sriracha Hot Chili Sauce"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/sauce-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "714ml"
+    },
+    {
+      "name": "Table Salt",
+      "catagory": ["Grocery", "Table Salt"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/13.jpg",
+      "comments": "no_comment",
+      "discription": "1kg"
+    },
+    {
+      "name": "Talmakhana",
+      "catagory": ["Grocery", "Talmakhana"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/08/TALMAKHANA-600x591.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Tapal Danedar Tea",
+      "catagory": ["Grocery"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/815096002988-600x400.jpg",
+      "comments": "no_comment",
+      "discription": "450gm"
+    },
+    {
+      "name": "Tapal Family Mixture",
+      "catagory": ["Grocery"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "900gm"
+    },
+    {
+      "name": "Titus Sardinas in Soybean",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 1.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "123g"
+    },
+    {
+      "name": "Wonderfarm Coconut Cream",
+      "catagory": ["Grocery", "Coconut Cream", "Wonderfarm Coconut Cream"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/cream.jpg",
+      "comments": "no_comment",
+      "discription": "400ml"
+    },
+    {
+      "name": "Yellow Gari",
+      "catagory": ["Grocery", "African Grocery"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "1kg"
+    }
+  ],
+  "Health & Beauty": [
+    {
+      "name": "Bigen Hair Color 48",
+      "catagory": [
+        "Health & Beauty",
+        "BIGEN HAIR COLOR",
+        "BIGEN HAIR COLOR 48"
+      ],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/b48.png",
+      "comments": "no_comment",
+      "discription": "Dark Chestnut"
+    },
+    {
+      "name": "Bigen Hair Color 57",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/81i1nslkE3L._AC_SS450_.jpg",
+      "comments": "no_comment",
+      "discription": "Dark Brown"
+    },
+    {
+      "name": "Bigen Hair Color 59",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/51JJSLfvDL._SY355_.jpg",
+      "comments": "no_comment",
+      "discription": "Oriental Black"
+    },
+    {
+      "name": "Chandrika Soap",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-5.jpg",
+      "comments": "no_comment",
+      "discription": "175gm"
+    },
+    {
+      "name": "Complete Care Neem Toothpaste",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "150gm"
+    },
+    {
+      "name": "Eno Regular",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "100gm"
+    },
+    {
+      "name": "Fair and Lovely",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-7.jpg",
+      "comments": "no_comment",
+      "discription": "80gm"
+    },
+    {
+      "name": "Hajmola",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "66gm"
+    },
+    {
+      "name": "Handi Black Henna for Hair",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Black"
+    },
+    {
+      "name": "Lux Soap",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-4.jpg",
+      "comments": "no_comment",
+      "discription": "100gm"
+    },
+    {
+      "name": "Lux Soap",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/10/Luxg2-600x399.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Neem and Turmeric Soap",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-3.jpg",
+      "comments": "no_comment",
+      "discription": "125gm"
+    },
+    {
+      "name": "Neem Face Wash",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-6.jpg",
+      "comments": "no_comment",
+      "discription": "100ml"
+    },
+    {
+      "name": "Neem Oil",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "100 ml"
+    },
+    {
+      "name": "Noorani Hair Color (Black Henna)",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/NOORANI-HAIR-COLOR-min.jpg",
+      "comments": "no_comment",
+      "discription": "Black Henna"
+    },
+    {
+      "name": "Noorani Hair Color (Brown Henna)",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min.jpg",
+      "comments": "no_comment",
+      "discription": "Brown Henna"
+    },
+    {
+      "name": "Noorani Hair Color (Chestnut Henna)",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-1.jpg",
+      "comments": "no_comment",
+      "discription": "Chestnut Henna"
+    },
+    {
+      "name": "Zarqa Henna for Hair",
+      "catagory": ["Health & Beauty"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-1-min-2.jpg",
+      "comments": "no_comment",
+      "discription": "Black"
+    }
+  ],
+  "Household Items": [
+    {
+      "name": "Belly sauce pan",
+      "catagory": ["Household Items"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Household Item"
+    },
+    {
+      "name": "Big Boss",
+      "catagory": ["Household Items"],
+      "price": "CAD 27.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Full S.S"
+    },
+    {
+      "name": "Casserole with Glass Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 24.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-Stick"
+    },
+    {
+      "name": "Disco Hari with Sora Dhakna",
+      "catagory": ["Household Items"],
+      "price": "CAD 27.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Household item"
+    },
+    {
+      "name": "Food Pot Leisure (Half S S)",
+      "catagory": ["Household Items"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "500ml"
+    },
+    {
+      "name": "Frypan",
+      "catagory": ["Household Items"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Bakelite Handle"
+    },
+    {
+      "name": "Frypan with Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 24.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-Stick"
+    },
+    {
+      "name": "Frypan without Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 24.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-stick"
+    },
+    {
+      "name": "Galaxy Full Steel",
+      "catagory": ["Household Items"],
+      "price": "CAD 38.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "6000ml"
+    },
+    {
+      "name": "Galaxy Full Steel (M.L)",
+      "catagory": ["Household Items"],
+      "price": "CAD 38.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "In-store only"
+    },
+    {
+      "name": "Karai Metal Halnde",
+      "catagory": ["Household Items"],
+      "price": "CAD 38.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "30 cm"
+    },
+    {
+      "name": "Karai with GL (Bakelite Handle)",
+      "catagory": ["Household Items"],
+      "price": "CAD 27.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "22 cm"
+    },
+    {
+      "name": "Karai with Glass Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 34.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-Stick"
+    },
+    {
+      "name": "Kiam (Classic)",
+      "catagory": ["Household Items"],
+      "price": "CAD 39.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Pressure cooker"
+    },
+    {
+      "name": "Kiam Queen  (White)",
+      "catagory": ["Household Items"],
+      "price": "CAD 34.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Pressure cooker"
+    },
+    {
+      "name": "Lunch Pot",
+      "catagory": ["Household Items"],
+      "price": "CAD 24.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "4 Bati (pcs)"
+    },
+    {
+      "name": "Lunch Pot",
+      "catagory": ["Household Items"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Monalisa"
+    },
+    {
+      "name": "Milk Pan with Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Household Item"
+    },
+    {
+      "name": "Multi Pan (Bakelite Handle)",
+      "catagory": ["Household Items"],
+      "price": "CAD 49.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "34 cm"
+    },
+    {
+      "name": "Multipan with Glass Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 34.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-Stick"
+    },
+    {
+      "name": "N or S Milkpan",
+      "catagory": ["Household Items"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-Stick"
+    },
+    {
+      "name": "Omega ( Inside S.S)",
+      "catagory": ["Household Items"],
+      "price": "CAD 27.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "2700ml"
+    },
+    {
+      "name": "One Handle Karai with Glass Lid",
+      "catagory": ["Household Items"],
+      "price": "CAD 34.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Non-stick"
+    },
+    {
+      "name": "Pitha Hari (with Khura)",
+      "catagory": ["Household Items"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "No-9"
+    },
+    {
+      "name": "Rice Hari with Sora  Dhakna",
+      "catagory": ["Household Items"],
+      "price": "CAD 29.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "No-13"
+    },
+    {
+      "name": "Ruti Towa",
+      "catagory": ["Household Items"],
+      "price": "CAD 16.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "25 cm"
+    },
+    {
+      "name": "Sauce Pan",
+      "catagory": ["Household Items"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Bakelite Handle"
+    },
+    {
+      "name": "Sock Pot",
+      "catagory": ["Household Items"],
+      "price": "CAD 27.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Household Item"
+    },
+    {
+      "name": "Torkari Hari with Sora Dhakna",
+      "catagory": ["Household Items"],
+      "price": "CAD 34.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "Household Item"
+    },
+    {
+      "name": "Wok pan",
+      "catagory": ["Household Items"],
+      "price": "CAD 38.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "30 cm"
+    }
+  ],
+  "Kazi Farm": [
+    {
+      "name": "Aloo Puri",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Aloo-Puri.jpg",
+      "comments": "no_comment",
+      "discription": "450g"
+    },
+    {
+      "name": "Dal Puri",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/dddd.jpg",
+      "comments": "no_comment",
+      "discription": "450g"
+    },
+    {
+      "name": "Plain Paratha",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/156017405_3693257277388050_2363688298429874642_n-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "Family Packet"
+    },
+    {
+      "name": "Spring Roll Pastry",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Vegetable Samosa",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Vegetable-Samosa.jpg",
+      "comments": "no_comment",
+      "discription": "400g"
+    },
+    {
+      "name": "Vegetable Singara",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-3.jpg",
+      "comments": "no_comment",
+      "discription": "Kazi Farms Kitchen"
+    },
+    {
+      "name": "Vegetable Spring Roll",
+      "catagory": ["Kazi Farm"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-4.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    }
+  ],
+  "Meat - Chicken": [
+    {
+      "name": "Chicken Breast Boneless",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/C1F85486-6B0C-46FF-8F75-A58385558C5F.jpeg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Chicken Drumstick As Is",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Chicken-Drumstick-As-Is-Per-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Chicken Kima Frozen (2 Lbs)",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Chicken-Kima-Frozen-Per-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Per Lb $6.49"
+    },
+    {
+      "name": "Chicken Leg Quarter As Is",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 2.75",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Untitled-1-10.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Chicken Leg Quarter Skin Off & Cut",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/800230638_1-aqsa-broiler-chicken-leg-piece-without-skin.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Chicken Thigh Boneless",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/800289269_2-famous-poultry-chicken-thigh-boneless.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Chicken Whole As Is",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Chiken-Whole-As-is.jpg",
+      "comments": "no_comment",
+      "discription": "3-3.50 Lbs"
+    },
+    {
+      "name": "Chicken Whole Skin Off & Cut",
+      "catagory": ["Meat - Chicken", "Halal Chicken", "Halal Meat"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/whole-uncut-skinless-chicken-500x500-1.png",
+      "comments": "no_comment",
+      "discription": "3-3.50 Lbs"
+    },
+    {
+      "name": "Chicken Wings (2 Lbs.)",
+      "catagory": ["Meat - Chicken"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/raw-chicken-wings-500x500-1.jpg",
+      "comments": "no_comment",
+      "discription": "Each lbs $4.99"
+    },
+    {
+      "name": "Halal Duck Burn",
+      "catagory": ["Meat - Chicken", "Duck", "Halal Duck"],
+      "price": "CAD 37.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/burn-duck.jpg",
+      "comments": "no_comment",
+      "discription": "Each"
+    },
+    {
+      "name": "Small Hard Chicken 1.5-2 Lbs",
+      "catagory": ["Meat - Chicken", "Chicken", "Hard Chicken"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/7CBD3B6C-5302-493B-BF84-4EEA2AD8D02C.jpeg",
+      "comments": "no_comment",
+      "discription": "Each"
+    }
+  ],
+  "Meat -Beef": [
+    {
+      "name": "Beef Boneless Pasanda",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 7.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-14.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Beef Boneless Stew",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 7.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Beef-Boneless-Stew-Per-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Beef Brain",
+      "catagory": ["Meat -Beef"],
+      "price": "",
+      "currency": "",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Beef-Brain.jpg",
+      "comments": "no_comment",
+      "discription": "In Store Only(Till Supplies Last)"
+    },
+    {
+      "name": "Beef Feet (Paya) Frozen",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Beef-Feet-White-Paya-Frozen-Per-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Minimam 4Lbs"
+    },
+    {
+      "name": "Beef Liver (per lb)",
+      "catagory": ["Meat -Beef"],
+      "price": "",
+      "currency": "",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/beef.jpg",
+      "comments": "no_comment",
+      "discription": "In Store Only (Till Supplies Last)"
+    },
+    {
+      "name": "Beef Nihari Shank With Bone 4Lbs",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 23.96",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Beef-With-BoneMix-per-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Per Lbs $5.99"
+    },
+    {
+      "name": "Beef T-Bone 2Lbs",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Untitled-1-8.jpg",
+      "comments": "no_comment",
+      "discription": "Per Lbs $7.27"
+    },
+    {
+      "name": "Beef With Bone (Mix)",
+      "catagory": ["Meat -Beef", "Beef", "Halal Meat"],
+      "price": "CAD 5.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Beef-With-BoneMix.jpg",
+      "comments": "no_comment",
+      "discription": "Get a Special Rate for 10 lb Only 49.99 CAD"
+    },
+    {
+      "name": "Ground Beef Ex.Lean",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 7.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Ground-Beef-Ex.Lean-Per-Lb..jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Ground Beef Lean",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Ground-Beef-Lean-per-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Ground Beef Mediam",
+      "catagory": ["Meat -Beef"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Ground-Beef-Mediamper-Lb.jpg",
+      "comments": "no_comment",
+      "discription": "Per lbs"
+    },
+    {
+      "name": "Ox Tail",
+      "catagory": ["Meat -Beef"],
+      "price": "",
+      "currency": "",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Ox-Tail.jpg",
+      "comments": "no_comment",
+      "discription": "In Store Only ( Till Supplies Last)"
+    }
+  ],
+  "Meat-Lamb or Goat": [
+    {
+      "name": "Goat Chops",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Untitled-13.jpg",
+      "comments": "no_comment",
+      "discription": "Per Lb"
+    },
+    {
+      "name": "Goat Leg Per Lb $12.99",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 84.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Goat-Leg.jpg",
+      "comments": "no_comment",
+      "discription": "Average 6.5 Lbs"
+    },
+    {
+      "name": "Goat Shoulder & Ribs (average 3 lbs)",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 32.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Lamb-Shoulder.jpg",
+      "comments": "no_comment",
+      "discription": "Average 3 lbs ($10.99 Per lbs)"
+    },
+    {
+      "name": "Goat or Lamb Feet(Frozen) Per Lb $5.99",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Lamb-Feet-Frozen.jpg",
+      "comments": "no_comment",
+      "discription": "Average 2.5 Lbs"
+    },
+    {
+      "name": "Goat or Lamb Stomach Lb $5.99",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Goat.jpg",
+      "comments": "no_comment",
+      "discription": "Minimum 2.5 Lbs"
+    },
+    {
+      "name": "Lamb Chops",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Lamb-Chops.jpg",
+      "comments": "no_comment",
+      "discription": "Per Lb"
+    },
+    {
+      "name": "Lamb Leg",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 90.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Lamb-Shanks.jpg",
+      "comments": "no_comment",
+      "discription": "Average 6.5 Lbs\n\nPer lb $13.99"
+    },
+    {
+      "name": "Lamb Shoulder & Rip  per lb $12.99",
+      "catagory": ["Meat-Lamb/Goat"],
+      "price": "CAD 38.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Lamb-Shoulder.jpg",
+      "comments": "no_comment",
+      "discription": "Average 3 lbs"
+    }
+  ],
+  "Oil and Ghee": [
+    {
+      "name": "Allegro Sunflower Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Allegro-Sunflower-Oil.jpg",
+      "comments": "no_comment",
+      "discription": "1 Liter"
+    },
+    {
+      "name": "Amla Hair Oil",
+      "catagory": ["Oil and Ghee", "AMLA HAIR OIL"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Amla-Hair-Oil-1.jpg",
+      "comments": "no_comment",
+      "discription": "275ml"
+    },
+    {
+      "name": "Aseel Ghee (1kg)",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/1c50b1ac88b33ecbd5d4505044c894f6.jpg",
+      "comments": "no_comment",
+      "discription": "1kg"
+    },
+    {
+      "name": "Aseel Ghee (500gm)",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/ASEEL-GHEE.jpg",
+      "comments": "no_comment",
+      "discription": "500gm"
+    },
+    {
+      "name": "Banoful Mustard Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Banoful-Mustard-Oil-2.jpg",
+      "comments": "no_comment",
+      "discription": "1 Liter"
+    },
+    {
+      "name": "Banoful Mustard Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Banoful-Mustard-Oil-1.jpg",
+      "comments": "no_comment",
+      "discription": "250ml"
+    },
+    {
+      "name": "Banoful Mustard Oil (500ml)",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Banoful-Mustard-Oil.jpg",
+      "comments": "no_comment",
+      "discription": "500ml"
+    },
+    {
+      "name": "Black seed oil 100ml",
+      "catagory": ["Oil and Ghee", "Black seed oil"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Black.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Clic Canola Oil 946 ml",
+      "catagory": ["Oil and Ghee", "CANOLA OIL"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Taki-Fish-1.jpg",
+      "comments": "no_comment",
+      "discription": "946ml"
+    },
+    {
+      "name": "Clic Corn Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/clic-corn-oil-1.jpg",
+      "comments": "no_comment",
+      "discription": "946ml"
+    },
+    {
+      "name": "Dabur Amla Hair Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-5-1.jpg",
+      "comments": "no_comment",
+      "discription": "275ml"
+    },
+    {
+      "name": "Desi Almond Oil",
+      "catagory": ["Oil and Ghee", "Almond Oil"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-5.jpg",
+      "comments": "no_comment",
+      "discription": "250ml"
+    },
+    {
+      "name": "Desi Castor Oil",
+      "catagory": ["Oil and Ghee", "Castor Oil"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Desi-Castor-oil.jpg",
+      "comments": "no_comment",
+      "discription": "150ml"
+    },
+    {
+      "name": "Desi Coconut Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Desi-Coconut-Oil.jpg",
+      "comments": "no_comment",
+      "discription": "750ml"
+    },
+    {
+      "name": "Desi Sesami Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Sesami-Oil.jpg",
+      "comments": "no_comment",
+      "discription": "250ml"
+    },
+    {
+      "name": "Handi Sesame Seed Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/oijhdfgh.jpg",
+      "comments": "no_comment",
+      "discription": "110ml"
+    },
+    {
+      "name": "Jui Coconut Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "350ml"
+    },
+    {
+      "name": "Kissan Desi Ghee",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 26.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-5-Recovered.jpg",
+      "comments": "no_comment",
+      "discription": "908gm"
+    },
+    {
+      "name": "Parachute Coconut Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-5-Recovered-1.jpg",
+      "comments": "no_comment",
+      "discription": "1 Liter"
+    },
+    {
+      "name": "Premium Ghee",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Taki-sdfgsdf.jpg",
+      "comments": "no_comment",
+      "discription": "325gm"
+    },
+    {
+      "name": "Pure Coconut Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "500ml"
+    },
+    {
+      "name": "Pure Coconut Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "200ml"
+    },
+    {
+      "name": "Sesami Oil",
+      "catagory": ["Oil and Ghee", "SESAMI OIL"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/desi.jpg",
+      "comments": "no_comment",
+      "discription": "250ml"
+    },
+    {
+      "name": "Teer Mustard Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Teer-Mustard-Oil-500ml.jpg",
+      "comments": "no_comment",
+      "discription": "500ml"
+    },
+    {
+      "name": "Vegetable Oil",
+      "catagory": ["Oil and Ghee"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/0004125094675_1_A1C1_0600.png",
+      "comments": "no_comment",
+      "discription": "3 Liters"
+    }
+  ],
+  "Organic": [],
+  "Pickles, Pasta & Sauces": [],
+  "Radhuni Spices": [
+    {
+      "name": "Radhuni Beef Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/beef-masala.jpg",
+      "comments": "no_comment",
+      "discription": "100gm"
+    },
+    {
+      "name": "Radhuni Biryani Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/biriany.jpg",
+      "comments": "no_comment",
+      "discription": "35gm"
+    },
+    {
+      "name": "Radhuni Borhani",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-3.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Radhuni Chotpoti Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-5.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Radhuni Cumin Powder",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-9-1.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Radhuni Cumin Powder",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-9.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Radhuni Fish Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/radhuni.1.jpg",
+      "comments": "no_comment",
+      "discription": "100gm"
+    },
+    {
+      "name": "Radhuni Garam Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/xcvb.jpg",
+      "comments": "no_comment",
+      "discription": "100gm"
+    },
+    {
+      "name": "Radhuni Hyderabadi Biryani",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-2.jpg",
+      "comments": "no_comment",
+      "discription": "45gm"
+    },
+    {
+      "name": "Radhuni Kacchi Biryani",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/48661180-3f7c-4199-a730-01169e8bfaea.jpg",
+      "comments": "no_comment",
+      "discription": "40gm"
+    },
+    {
+      "name": "Radhuni Kala Bhuni",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/kala-vhuna.jpg",
+      "comments": "no_comment",
+      "discription": "80gm"
+    },
+    {
+      "name": "Radhuni Meat Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-4.jpg",
+      "comments": "no_comment",
+      "discription": "100gm"
+    },
+    {
+      "name": "Radhuni Mezbani Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/mejbani.jpg",
+      "comments": "no_comment",
+      "discription": "68gm"
+    },
+    {
+      "name": "Radhuni Rezala Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-6.jpg",
+      "comments": "no_comment",
+      "discription": "35gm"
+    },
+    {
+      "name": "Radhuni Roast Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/roast.jpg",
+      "comments": "no_comment",
+      "discription": "35gm"
+    },
+    {
+      "name": "Radhuni Tehari Masala",
+      "catagory": ["Radhuni Spices"],
+      "price": "CAD 2.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/tehari.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    }
+  ],
+  "Ready To Eat": [],
+  "Recipe Mix": [],
+  "Rice": [
+    {
+      "name": "Aromatic Broken Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/27.jpg",
+      "comments": "no_comment",
+      "discription": "4Lb"
+    },
+    {
+      "name": "Banoful Chinigura Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/adfgasdfwes-Copy-Copy-Copy.jpg",
+      "comments": "no_comment",
+      "discription": "1kg"
+    },
+    {
+      "name": "Banoful Kalijeera Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 20.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Banoful-Kalijeera-Rice-10-Lbs.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "EGN Kalijeera Rice",
+      "catagory": ["Rice", "Kalijeera Rice", "Rice"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Taki-Fishrtrt.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "Fatima Kalijjera Rice",
+      "catagory": ["Rice"],
+      "price": "",
+      "currency": "",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/08/Fatima-Kalojira-Rice.jpeg",
+      "comments": "no_comment",
+      "discription": "10 Lb"
+    },
+    {
+      "name": "Hilal Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 17.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-11.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "Hilal Basmati Sella Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 17.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Hilal-Basmati-Rice10lb.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "Minar Classic Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 17.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Minar-Classic-Basmati-Rice-10Lbs.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "Nayab Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/Taki-Fishdryydr.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Noori Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Noori-Basmati-Rice-8Lbs.jpg",
+      "comments": "no_comment",
+      "discription": "8 lbs"
+    },
+    {
+      "name": "Noori Sella Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Noori-Sella-Basmati-Rice-8Lbs.jpg",
+      "comments": "no_comment",
+      "discription": "8 lbs"
+    },
+    {
+      "name": "Parboiled Broken Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/26.jpg",
+      "comments": "no_comment",
+      "discription": "4Lb"
+    },
+    {
+      "name": "Ruposhi Bangla Miniket Perboil Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/24.jpg",
+      "comments": "no_comment",
+      "discription": "20 lbs"
+    },
+    {
+      "name": "Ruposhi Bangla Nazirshail Perboil Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/23.jpg",
+      "comments": "no_comment",
+      "discription": "20 lbs"
+    },
+    {
+      "name": "Saleem Caravan Basmati",
+      "catagory": ["Rice"],
+      "price": "CAD 17.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Saleem-Caravan-Basmati-10lb.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "Tilda Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Tilda-Basmati-Rice-10lb.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    },
+    {
+      "name": "Zafarani Basmati Rice",
+      "catagory": ["Rice"],
+      "price": "CAD 16.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Zafarani-10Lbs.jpg",
+      "comments": "no_comment",
+      "discription": "10 lbs"
+    }
+  ],
+  "Spices": [
+    {
+      "name": "Black Pepper Whole",
+      "catagory": ["Spices", "Black Pepper"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/whole-black-600x600.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Chilli Powder 200g",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-1-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Cinnamon Bark",
+      "catagory": ["Spices", "Cinnamon"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/gh.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Clove Whole 100g",
+      "catagory": ["Spices", "Clove", "Clove Whole"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/cloves-600x399.jpeg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Desi Tandoori Masala",
+      "catagory": ["Spices"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/desi-tanduri.jpg",
+      "comments": "no_comment",
+      "discription": "Original Desi Mazaa"
+    },
+    {
+      "name": "Green Cardamon",
+      "catagory": ["Spices", "Green Cardamon"],
+      "price": "CAD 4.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/green-Cardamon-600x600.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Kalonji Powder 200g",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/06/kalonji-seed.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Kalonji seed 200gm",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/06/kalonji-seed.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Kashmiri Chilli Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/sedt.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Mace Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/104.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Mace Whole",
+      "catagory": ["Spices"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/105.jpg",
+      "comments": "no_comment",
+      "discription": "25g"
+    },
+    {
+      "name": "Panch Phoran 200gm",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/06/Panch-phoran.jpg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Panchpuram Whole 200g",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/panch-puram-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Shan Biriyani Masala",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Sindhi-Biriyani.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Bombay Biriyani",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/shan-Bombay-Biriyani.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Butter Chicken",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Butter-Chicken.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Chapli Kabab",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Chapli-Kabab.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Garlic & Ginger Mix Paste",
+      "catagory": ["Spices"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Garlic-Ginger-Mix-Paste.jpg",
+      "comments": "no_comment",
+      "discription": "700gm"
+    },
+    {
+      "name": "Shan Garlic Paste",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Garlic-Paste.jpg",
+      "comments": "no_comment",
+      "discription": "700gm"
+    },
+    {
+      "name": "Shan Ginger Paste",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Ginger-Paste-.jpg",
+      "comments": "no_comment",
+      "discription": "paste from fresh ginger"
+    },
+    {
+      "name": "Shan Haleem Masala",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Haleem-Masala.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Pulao Biriyani",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Pulao-Biriyani.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Shami Kabab",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Shami-Kabab.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Sindhi Biriyani",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Sindhi-Biriyani.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Tandori Chicken",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Tandori-Chicken.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Shan Tikka Boti",
+      "catagory": ["Spices"],
+      "price": "CAD 2.25",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/05/Shan-Tikka-Boti.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Tit Bit Black Musterd Seed",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Cumin Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-3-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Cumin Seed",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-4-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Fennel Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-5-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Fennel Seed",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/102.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Fenugreek Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/101.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Fenugreek seed",
+      "catagory": ["Spices"],
+      "price": "CAD 3.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/101.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Garam Masala Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/garam-masala-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Kalonji Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/kalonji.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Kalonji Whole",
+      "catagory": ["Spices"],
+      "price": "CAD 3.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/kalonji.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Musterd Powder",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Untitled-1-5-2.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tit Bit Nutmeg Whole",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/sdfg.jpg",
+      "comments": "no_comment",
+      "discription": "50gm"
+    },
+    {
+      "name": "Tit Bit Yellow Musterd Seed",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/seeds-1.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    },
+    {
+      "name": "Tukmaria",
+      "catagory": ["Spices"],
+      "price": "CAD 2.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/06/Tit-Bit-Tukmaria-2.jpg",
+      "comments": "no_comment",
+      "discription": "200gm"
+    }
+  ],
+  "Sweet": [
+    {
+      "name": "Chanar Sandesh",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 24.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-13.jpeg",
+      "comments": "no_comment",
+      "discription": "1000 gm"
+    },
+    {
+      "name": "Chomchom",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-6.jpeg",
+      "comments": "no_comment",
+      "discription": "Origin Bangladesh"
+    },
+    {
+      "name": "Deshi Curd",
+      "catagory": ["Sweet"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Untitled-1-5.jpg",
+      "comments": "no_comment",
+      "discription": "1000gm"
+    },
+    {
+      "name": "Khirer Chomchom",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-12.jpeg",
+      "comments": "no_comment",
+      "discription": "1000 gm"
+    },
+    {
+      "name": "Premium Doi in Plastic",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "1.2Lbs"
+    },
+    {
+      "name": "Premium Ghee",
+      "catagory": ["Sweet", "Ghee", "Premium Ghee"],
+      "price": "CAD 19.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Ghee1.jpg",
+      "comments": "no_comment",
+      "discription": "325gm"
+    },
+    {
+      "name": "Premium Gur Shondesh",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Gur-Shondesh.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Kalo Jamun",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kalo-Jamun.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Khir Toast",
+      "catagory": ["Sweet"],
+      "price": "CAD 16.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Khir-Toast.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Khncha Sana",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Khncha-Sana.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Lal Mohon",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Lal-Mohon.jpg",
+      "comments": "no_comment",
+      "discription": "1 Lb"
+    },
+    {
+      "name": "Premium Maowa Balushai",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Maowa-Balushai.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Nadia Shondesh",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/N-sandesh-o.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Ras Gulla",
+      "catagory": ["Sweet"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Premium Sweets Assorted Laddus",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/15.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Cham Cham",
+      "catagory": ["Sweet"],
+      "price": "CAD 14.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/6.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Gulab Jamon",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/4-1.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Khir Toast",
+      "catagory": ["Sweet"],
+      "price": "CAD 16.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/5.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Lal Mohan",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/9.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Maowa Balushai",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/2.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Mihidana Laddu",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/10.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Motichur Laddu",
+      "catagory": ["Sweet"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/8.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Nadia Shandesh",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/14.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Raj Vogh",
+      "catagory": ["Sweet"],
+      "price": "CAD 12.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/7.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Roll Shondesh",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/we.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Sweets Sanar Toast",
+      "catagory": ["Sweet"],
+      "price": "CAD 15.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/11/12.jpg",
+      "comments": "no_comment",
+      "discription": "1 lb"
+    },
+    {
+      "name": "Premium Vogh Sagar",
+      "catagory": ["Sweet"],
+      "price": "CAD 16.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Vogh-Sagar.jpg",
+      "comments": "no_comment",
+      "discription": "1Lb"
+    },
+    {
+      "name": "Roshgollah",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-4.jpeg",
+      "comments": "no_comment",
+      "discription": ""
+    },
+    {
+      "name": "Roshmalai",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-5.jpeg",
+      "comments": "no_comment",
+      "discription": "Origin : Bangladesh"
+    },
+    {
+      "name": "Sweet Curd",
+      "catagory": ["Frozen Snack", "Sweet"],
+      "price": "CAD 21.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-21-at-1.10.32-AM-8.jpeg",
+      "comments": "no_comment",
+      "discription": "1000 gm"
+    },
+    {
+      "name": "Uddin’s Cham Cham",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Uddin’s Chanar Shandesh",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Khncha-Sana.jpg",
+      "comments": "no_comment",
+      "discription": "250gm"
+    },
+    {
+      "name": "Uddin’s Gurer Shondesh",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Gur-Shondesh.jpg",
+      "comments": "no_comment",
+      "discription": "250gm"
+    },
+    {
+      "name": "Uddin’s Kala Jamun",
+      "catagory": ["Sweet"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Kalo-Jamun.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Uddin’s Kancha Golla",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/woocommerce-placeholder-600x600.png",
+      "comments": "no_comment",
+      "discription": "250gm"
+    },
+    {
+      "name": "Uddin’s Malai Curry",
+      "catagory": ["Sweet"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/Malai-curry.jpg",
+      "comments": "no_comment",
+      "discription": "454gm"
+    },
+    {
+      "name": "Uddin’s Mix Misti",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/9.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Uddin’s Ras Gulla",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/10.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Uddin’s Rashmalai",
+      "catagory": ["Sweet"],
+      "price": "CAD 10.99",
+      "currency": "CAD ",
+      "availability": "no",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/04/rashmalai-sdfsg.jpg",
+      "comments": "no_comment",
+      "discription": "454gm"
+    },
+    {
+      "name": "Uddin’s White Chomchom",
+      "catagory": ["Sweet"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/8.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    }
+  ],
+  "Tea & Coffee": [
+    {
+      "name": "Ameen Green Tea",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 5.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Taki-ggggg.jpg",
+      "comments": "no_comment",
+      "discription": "300gm"
+    },
+    {
+      "name": "Kashmiri Pink Tea",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 6.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/20.jpg",
+      "comments": "no_comment",
+      "discription": "150g"
+    },
+    {
+      "name": "Lipton Yellow Label Tea",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 8.49",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-4-min-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "200gm (100 Tea Bags)"
+    },
+    {
+      "name": "Mirzapur Tea (Bangladeshi)",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 7.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Taki-sdsds.jpg",
+      "comments": "no_comment",
+      "discription": "400gm"
+    },
+    {
+      "name": "Tapal Danedar Tea",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Taki-Fish.jpg",
+      "comments": "no_comment",
+      "discription": "900 gm (loose tea)"
+    },
+    {
+      "name": "Tapal Danedar Tea",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/15.jpg",
+      "comments": "no_comment",
+      "discription": "450g"
+    },
+    {
+      "name": "Tapal Danedar Tea",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 9.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/12/Taki-fth.jpg",
+      "comments": "no_comment",
+      "discription": "450g"
+    },
+    {
+      "name": "Tapal Danedar Tea 450gm",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 8.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/sdf.jpg",
+      "comments": "no_comment",
+      "discription": "450gm (Loose Tea)"
+    },
+    {
+      "name": "Tapal Family Mixture",
+      "catagory": ["Tea & Coffee"],
+      "price": "CAD 13.99",
+      "currency": "CAD ",
+      "availability": "yes",
+      "images": "https://www.mffoodmart.com/wp-content/uploads/2021/07/Untitled-4-min-1-600x600.jpg",
+      "comments": "no_comment",
+      "discription": "900gm (Black Tea)"
+    }
+  ],
+  "Uncategorized": []
+}

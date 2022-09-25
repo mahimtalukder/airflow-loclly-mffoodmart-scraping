@@ -1,0 +1,36 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "db": "node test.js",
+    "updateCategoryDim": "node upgrade_catagory_dim.js",
+    "updateProductDim": "node update_product_dim.js",
+    "updateProductCategoriesDim": "node upgrade_product_categories_dim.js",
+    "uploadProductFact": "node upload_data_to_fact.js",
+    "server": "node server.js"
+  },
+  "name": "mahim_project",
+  "version": "1.0.0",
+  "description": "a web scraper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahimtalukder/mffoodmart"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Md. Mahim Talukder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahimtalukder/airflow-project/issues"
+  },
+  "homepage": "https://github.com/mahimtalukder/airflow-project#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "puppeteer": "^17.1.3",
+    "sequelize": "^6.21.6",
+    "express": "^4.16.1"
+  }
+}
